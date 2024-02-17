@@ -41,3 +41,6 @@ SELECT sflight~carrid,
 cl_demo_output=>display( it_output3 ).
 
 clear:it_output, it_output2, it_output3.
+
+
+BREAK-POINT.
